@@ -1,4 +1,6 @@
-Teste Grupo Senai
+Teste Grupo Senai - Curso Full Stach
 Grupo: Thiago Martins e Luiz Otávio
-bla bla bla
->>>>>>> cca99de8b98b6e164563c409f7f6fe86b2bd27067869
+Disciplina de Verionamento
+Prática de Git e Git-Hub
+
+git teste thiago M html modifiquei arquivo 
